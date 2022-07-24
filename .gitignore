@@ -1,3 +1,6 @@
-.temp.py
-/frontend
-static/uploads/*.mp4
+*.pyc
+__pycache__
+frontend
+temp.py
+frontend
+mp4
